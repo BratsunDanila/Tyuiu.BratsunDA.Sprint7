@@ -1,0 +1,13 @@
+gpu;amd;rx 550;110;501;1183;;;
+gpu;amd;rx 6600;290;906;2491;;;
+gpu;nvidia;gt 1030;105;480;1670;;;
+gpu;nvidia;rtx 3050;280;855;1777;;;
+gpu;nvidia;rtx 4060;400;957;2460;;;
+cpu;amd;ryzen 5 3600;100;453;;4,2;6;
+cpu;amd;ryzen 5 5600x;170;594;;4,6;6;
+cpu;amd;ryzen 7 7700x;390;838;;5,4;8;
+cpu;intel;i5 13400f;240;689;;4,6;10;
+cpu;intel;i7 12700k;400;823;;5;12;
+ram;kingston;FURY Beast (8x2);46;;;;;3200
+ram;G.Skill;AEGIS(8x2);42;;;;;3200
+ram;ADATA;XPG SENTRIX D41;51;;;;;3200
