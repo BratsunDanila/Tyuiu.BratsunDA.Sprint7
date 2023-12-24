@@ -58,6 +58,8 @@ namespace Tyuiu.BratsunDA.Sprint7.Project.V12
 
 
             arrayValues = ds.GetBase(openFilePath);
+
+            buttonViewBase_BDA.Enabled = true;
         }
 
         public void buttonViewBase_BDA_Click(object sender, EventArgs e)
@@ -82,7 +84,6 @@ namespace Tyuiu.BratsunDA.Sprint7.Project.V12
 
             arrayValues = ds.GetBase(openFilePath);
 
-            buttonViewBase_BDA.Enabled = true;
             buttonFind_BDA.Enabled = true;
             buttonDelete_BDA.Enabled = true;
             buttonEdit_BDA.Enabled = true;
